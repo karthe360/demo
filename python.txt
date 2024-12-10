@@ -1,0 +1,60 @@
+what is python?
+python is highlevel intrepreted language known for its easy syntax,dynamically programmed
+have extensive libraries and versatile.
+
+python key features?
+ easy to learn
+ extensive libraries
+ object oriented
+ platform independent
+ versatile
+
+ how do u run the python code?
+ save the code in .py file and execute the code by using python intrepretor.
+
+ what is python datatypes?
+
+The common python datatypes are int,float,str,list,tuple,set,dict and bool.
+
+what is indentation in python?
+
+it is used to define the blocks of code , replacing the braces or keeywords like begin/end.
+
+what is the difference between break and continue ?
+
+break--> exits the loop.
+
+continue--> skip the current iteration and move to the next.
+
+what is functions in python ?
+
+the reusable block of code defined by def.
+
+what is the purpose of __name__ == "__main__" check ?
+it ensures the code blocks runs when the file is excuted directly.
+
+what is lambda ?
+ananymous function defined by using lambda.example.
+
+diff between list and tuple ?
+
+list is mutable   tuple is immutable
+list is ordered   tuple is ordered
+in tuple data retrieving is faster
+
+what is set in python ?
+set is mutable
+set is unordered
+set is unique
+
+what is exception handling ?
+The way to handle the run time error by try,except and finally.
+
+what is the use of exception error ?
+It executes code regardless of whether exception error.
+
+what are common built in exception in python?
+Index error,Key error,Type error and Value error.
+
+
+
